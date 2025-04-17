@@ -1,0 +1,31 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "project",
+  "keywords": [
+    "project",
+    "practise"
+  ],
+  "homepage": "https://github.com/roshan139555/project-3#readme",
+  "bugs": {
+    "url": "https://github.com/roshan139555/project-3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roshan139555/project-3.git"
+  },
+  "license": "ISC",
+  "author": "Roshan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "node": "^23.11.0",
+    "nodemon": "^3.1.9"
+  },
+  "devDependencies": {}
+}
